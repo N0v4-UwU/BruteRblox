@@ -28,7 +28,7 @@ def main():
     # Get the Roblox login page
     driver.get("https://www.roblox.com/login")
 
-    print("YOU CAN PROVIDE USERNAME NOW")
+    print(farmcharmyay)
     # Get the user-specified username
     username = input("Username: ")
 
